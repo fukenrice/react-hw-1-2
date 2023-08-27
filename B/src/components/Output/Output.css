@@ -1,0 +1,32 @@
+output {
+    display: flex;
+    justify-content:space-between;
+    align-items: start;
+    width: 399px;
+    height: 54px;
+    background: #6469DC;
+    margin: 10px auto;
+    margin-left: 30px;
+    border-radius: 5px;
+    font-size: 1.4em;
+    text-align: right;
+    
+    /* box-shadow: inset 1px 1px 1px rgba(0, 0, 0, 0.3),
+      inset -1px -1px 1px rgba(0, 0, 0, 0.3); */
+  }
+
+  .clear {
+    font-size: 24px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #FFF;
+    margin: 9px
+  }
+
+  .result {
+    font-size: 38px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #FFF;
+    margin-right: 9px;
+    max-width: 16ch;
+    overflow-x: auto;
+}

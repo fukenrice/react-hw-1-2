@@ -1,0 +1,10 @@
+.btn {
+    background-color:#1182EB;
+    width:60px;
+    height:62px;
+    margin: 26px;
+    float: left;
+    font-size:38px;
+    border-radius: 90%;
+    border: none;
+}
